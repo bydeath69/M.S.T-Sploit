@@ -1,10 +1,14 @@
-import os                                                                                                                                    import sys
+import os
+import sys
 import time
-                                                                                                                                             os.system("clear")
+
+os.system("clear")
 banner="""
 \tCode: BY DEATH69\033[31;40;1m
                    ─────█─▄▀█──█▀▄─█─────
-                   ────▐▌──────────▐▌────                                                                                                                       ────█▌▀▄──▄▄──▄▀▐█────                                                                                                                       ───▐██──▀▀──▀▀──██▌───
+                   ────▐▌──────────▐▌────
+                   ────█▌▀▄──▄▄──▄▀▐█────
+                   ───▐██──▀▀──▀▀──██▌───
                    ──▄████▄──▐▌──▄████▄──
       \33[35m     ☠         Code  : bydeath69         ☠
          \33[33m            Youtube : BY DEATH EDIT     ☠
@@ -26,5 +30,5 @@ elif islem==2:os.system("python2 burayadokunma.py")
 elif islem==3:os.system("python burayadokunmayin.py")
 elif islem==4:os.system("python .py")
 elif islem==5:os.system("bash ..sh")
-elif islem==0:os.system("pkg install && pkg install python && pkg install python2 && pkg install python3 && pkg insta                       >
+elif islem==0:os.system("pkg install && pkg install python && pkg install python2 && pkg install python3 && pkg install bs4")                      >
 else:os.system("python start.py")
