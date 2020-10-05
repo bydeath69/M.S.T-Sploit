@@ -29,6 +29,6 @@ if islem==1:os.system("python2 girme.py")
 elif islem==2:os.system("python2 burayadokunma.py")
 elif islem==3:os.system("python burayadokunmayin.py")
 elif islem==4:os.system("python .py")
-elif islem==5:os.system("bash ..sh")
-elif islem==0:os.system("pkg install && pkg install python && pkg install python2 && pkg install python3 && pkg install bs4")                      >
+elif islem==5:os.system("bash ..sh")                                                                                             
+elif islem==0:os.system("pkg install && pkg install python && pkg install python2 && pkg install python3")
 else:os.system("python start.py")
