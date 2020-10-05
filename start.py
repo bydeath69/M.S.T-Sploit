@@ -27,7 +27,7 @@ islem=int(input("Işlem Numarası: "))
 
 if islem==1:os.system("python2 .....py")
 elif islem==2:os.system("python2 ....py")
-elif islem==3:os.system("python ...py")
+elif islem==3:os.system("python2 ...py")
 elif islem==4:os.system("python .py")
 elif islem==5:os.system("bash ..sh")                                                                                             
 elif islem==0:os.system("pkg install && pkg install python && pkg install python2 && pkg install python3")
