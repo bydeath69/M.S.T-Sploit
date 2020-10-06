@@ -10,7 +10,7 @@ banner="""
                    ────█▌▀▄──▄▄──▄▀▐█────
                    ───▐██──▀▀──▀▀──██▌───
                    ──▄████▄──▐▌──▄████▄──
-      \33[35m     ☠         Code :m.s.t web birim komutan yardimcisi bydeath69 ☠
+      \33[35m     ☠         Code :m.s.t bydeath69 ☠
          \33[33m            Youtube : Milli Cyber-Team    ☠
         \33[32m            İnstagram : @Millicyberteam.com.tr     ☠
         \33[36m   ☾★ ☾★ Milli Cyber-Team ☾★ ☾★
